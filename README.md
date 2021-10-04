@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
+### Run API
+
+> Clone API repository at https://github.com/viniciosneves/fake-rest-api
+
+``` 
+# install dependencies
+npm install
+npm run start-auth
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
